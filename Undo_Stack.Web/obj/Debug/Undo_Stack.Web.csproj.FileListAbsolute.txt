@@ -1,0 +1,4 @@
+c:\users\575435\documents\visual studio 2010\Projects\Undo_Stack\Undo_Stack.Web\bin\Undo_Stack.Web.dll
+c:\users\575435\documents\visual studio 2010\Projects\Undo_Stack\Undo_Stack.Web\bin\Undo_Stack.Web.pdb
+c:\users\575435\documents\visual studio 2010\Projects\Undo_Stack\Undo_Stack.Web\obj\Debug\Undo_Stack.Web.dll
+c:\users\575435\documents\visual studio 2010\Projects\Undo_Stack\Undo_Stack.Web\obj\Debug\Undo_Stack.Web.pdb

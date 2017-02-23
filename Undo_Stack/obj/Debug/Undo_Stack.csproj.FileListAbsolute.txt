@@ -1,0 +1,11 @@
+c:\users\575435\documents\visual studio 2010\Projects\Undo_Stack\Undo_Stack\obj\Debug\App.g.i.cs
+c:\users\575435\documents\visual studio 2010\Projects\Undo_Stack\Undo_Stack\obj\Debug\MainPage.g.i.cs
+c:\users\575435\documents\visual studio 2010\Projects\Undo_Stack\Undo_Stack\obj\Debug\Undo_Stack.g.resources
+c:\users\575435\documents\visual studio 2010\Projects\Undo_Stack\Undo_Stack\Bin\Debug\Undo_Stack.dll
+c:\users\575435\documents\visual studio 2010\Projects\Undo_Stack\Undo_Stack\Bin\Debug\Undo_Stack.pdb
+c:\users\575435\documents\visual studio 2010\Projects\Undo_Stack\Undo_Stack\Bin\Debug\AppManifest.xaml
+c:\users\575435\documents\visual studio 2010\Projects\Undo_Stack\Undo_Stack\Bin\Debug\Undo_Stack.xap
+c:\users\575435\documents\visual studio 2010\Projects\Undo_Stack\Undo_Stack\Bin\Debug\Undo_StackTestPage.html
+c:\users\575435\documents\visual studio 2010\Projects\Undo_Stack\Undo_Stack\obj\Debug\Undo_Stack.dll
+c:\users\575435\documents\visual studio 2010\Projects\Undo_Stack\Undo_Stack\obj\Debug\Undo_Stack.pdb
+c:\users\575435\documents\visual studio 2010\Projects\Undo_Stack\Undo_Stack\obj\Debug\XapCacheFile.xml
